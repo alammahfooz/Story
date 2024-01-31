@@ -1,0 +1,10 @@
+# ______________________________ Gig Commands ______________________________ 
+
+01. Create a file and folder...... like Story and chapter1
+02. git init ............. check the path of git file
+03. add file ............. git add chapter1
+04. add commit............ git commit -m "Completed Chapter 1" 
+05. check commits file.... git log 
+06. 
+
+
